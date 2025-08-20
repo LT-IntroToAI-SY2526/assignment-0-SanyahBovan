@@ -14,7 +14,7 @@ The main difference I notice is that Git is a VCS while GitHub has an easy to us
 
 **2. Explain what "committing and pushing" means in your own words. Why are these steps important?**
 
-[Your answer here]
+Committing is you manually saving the changes you made to your document, and then pushing is you pushing your work into the repository for others to see your work. It is important because if you dont complete these steps your work won't save and you'll lose your progress and fail.
 
 **3. What is a repository and what does it contain?**
 
