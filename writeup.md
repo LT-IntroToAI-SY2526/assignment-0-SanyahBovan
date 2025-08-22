@@ -26,7 +26,7 @@ Committing is you manually saving the changes you made to your document, and the
 
 **Link to your GitHub profile repository:** 
 
-[Paste your profile repository link here - it should look something like: https://github.com/yourusername/yourusername]
+https://github.com/SanyahBovan/Sanyah-Bovan/blob/main/README.md
 
 ---
 
