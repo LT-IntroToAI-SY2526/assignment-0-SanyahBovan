@@ -18,7 +18,7 @@ Committing is you manually saving the changes you made to your document, and the
 
 **3. What is a repository and what does it contain?**
 
-[Your answer here]
+A repository is very similar to a google doc because it is where you put your work, and you are able to share it with others. You can think of it as the study room in a house, since it is for your work.
 
 ---
 
@@ -34,7 +34,7 @@ https://github.com/SanyahBovan/Sanyah-Bovan/blob/main/README.md
 
 **What aspect of AI are you most excited to learn about this year? Explain why.**
 
-[Your answer here - feel free to write a paragraph or more!]
+I believe I am most excited to learn about AIs origins, and what they can offer in the future. I would also like to know more about the coding that goes into place to keep AI up to date. In my head I think of the updates to be like Java when you pull info from websites,but I'm not sure. I am interested in this because I plan to minor in Computer science and I think it's important to learn more about the things that are starting to dominate the space.
 
 ---
 
